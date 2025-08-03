@@ -97,16 +97,10 @@ export default function Services() {
                 Transform Your Reality
               </h3>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                Discover a new way to access what you need with Be it to Get it.
-                Our innovative platform bridges the gap between your desires and
-                solutions, offering seamless connections to products and
-                services that enhance your lifestyle.
+                Dive into 'Be it to Get it,' a transformative guide that demystifies the art of manifestation. This book is not about wishful thinking; it's a practical manual that teaches you how to fundamentally align your inner state of being with the reality you wish to create.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Whether you're seeking the latest in technology or unique
-                experiences, we provide curated options tailored to your
-                preferences. Simplify your journey to obtain what matters most
-                with ease and efficiency.
+                Whether you're looking to improve your career, relationships, or personal well-being, the principles within these pages offer a clear, step-by-step path. Learn to harness the power of your own consciousness to attract the opportunities and experiences that matter most to you.
               </p>
             </div>
 
