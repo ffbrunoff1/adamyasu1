@@ -154,7 +154,7 @@ export default function Footer() {
           >
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <p className="text-gray-400 text-sm">
-                © {new Date().getFullYear()} Adam Yasu. All rights reserved.
+                Â© {new Date().getFullYear()} Adam Yasu. All rights reserved.
                 Transform your reality with practical guidance.
               </p>
 
