@@ -33,7 +33,7 @@ export default function Hero() {
   return (
     <section
       id="hero"
-      className="min-h-screen flex items-center bg-gradient-dark relative overflow-hidden"
+      className="min-h-screen flex items-center bg-gradient-dark relative overflow-hidden pt-24 pb-12"
     >
       <div className="absolute inset-0 bg-black/40"></div>
 
