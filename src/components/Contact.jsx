@@ -121,9 +121,9 @@ export default function Contact() {
                     Get Your Copy
                   </h4>
                   <p className="text-gray-600 mb-4">
-                    Ready to align yourself with your desires? Contact us to get
-                    your copy of "Be it to Get it" and start your transformation
-                    journey today.
+                    Pronto para seguir o caminho da transformação? Entre em contato para obter
+                    sua cópia de "Be it to Get it" e comece sua jornada de
+                    transformação hoje.
                   </p>
                   <motion.a
                     whileHover={{ scale: 1.05 }}

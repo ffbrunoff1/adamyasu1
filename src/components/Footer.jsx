@@ -66,9 +66,9 @@ export default function Footer() {
               </div>
 
               <p className="text-gray-300 text-lg leading-relaxed max-w-md">
-                Transform your reality with practical guidance. Align yourself
-                with your desires and discover the path to self-realization and
-                spiritual growth.
+                Transforme sua realidade com orientação prática. Siga o caminho
+                da transformação e descubra a jornada para a autorrealização e o
+                crescimento espiritual.
               </p>
 
               <div className="flex items-center space-x-2 text-accent-beige">

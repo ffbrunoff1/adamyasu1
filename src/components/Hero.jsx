@@ -69,8 +69,8 @@ export default function Hero() {
                 </span>
               </div>
               <h1 className="text-5xl lg:text-7xl font-serif font-bold text-white leading-tight">
-                Align Yourself with Your
-                <span className="block gradient-text">Desires</span>
+                A Caminho da
+                <span className="block gradient-text">Transformação</span>
               </h1>
             </motion.div>
 

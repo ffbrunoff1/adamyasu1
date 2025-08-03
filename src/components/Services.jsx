@@ -61,7 +61,7 @@ export default function Services() {
             Be it to Get it
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            Align Yourself with Your Desires to Live the Life You Want
+            A Caminho da Transformação para Viver a Vida que Você Deseja
           </p>
         </motion.div>
 
@@ -200,8 +200,8 @@ export default function Services() {
               Start Your Transformation Today
             </h3>
             <p className="text-xl text-gray-200 mb-8 max-w-2xl mx-auto">
-              Join thousands who have already begun their journey to align with
-              their desires and create the life they truly want.
+              Junte-se a milhares que já começaram sua jornada a caminho da
+              transformação para criar a vida que realmente desejam.
             </p>
             <motion.button
               whileHover={{ scale: 1.05 }}
